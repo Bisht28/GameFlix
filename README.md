@@ -1,2 +1,2 @@
-# esports
+# GameFlix
 Esports streaming platform
